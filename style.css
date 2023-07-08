@@ -104,5 +104,24 @@ main{
 .about-info{
     text-align: center;
 }
+
 /* about section ends here */
+/* what I do starts here */
+.what-I-do-desc{
+    padding: 30px 150px;
+}
+.skills-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+}
+.skills{
+    padding: 30px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+.skill-description{
+    
+}
 /* main ends here */
